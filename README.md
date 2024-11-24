@@ -1,1 +1,1 @@
- # myremote
+ # myrepo
